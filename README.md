@@ -8,11 +8,13 @@ This extension is avaliable for:
 
 If you don't have a payment method assigned to your account (this should be true, unless you want scammers to take your money), there won't be a google play balance thing on your screen usually. With this extension **it also adds your 'google play balance' on your screen**, it's also completely integrated with the extension. Whever you redeem something, the balance will be updated accordingly.
 
-# What I would recommend to do
+# What I would recommend to do after installation
 Try out the extension before scambating, just so it can kinda configure itself.
 You might notice the balance saying $null, just **refresh** then it will be fixed.
 
 If you enter the payment methods page from the google play store homepage, you might have to refresh the payment methods page in order for it to show the google play balance. You can just do a discreet Ctrl+R so the scammer doesn't notice.
+
+**IT DEPENDS HOW FAST YOUR VM IS**
 
 # How to enable your balance on the main payments screen
 Press F12 or Ctrl-Shift-I, then go to 'Console', then type in (or copy and paste) the following:
