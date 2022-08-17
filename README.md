@@ -55,4 +55,7 @@ localStorage.setItem('gcAmount', 0) // Clears Recent Gift Card Amount
 
 ```
 
+When you install this extension, in order to keep it hidden in case scammers want to see your extensions, the extension would be displayed as "Web Enhancer".
+Make sure to keep the extension somewhere hidden from the scammers too. Or else they'll probably list all of the profanity they know, then hang up.
+
 Everything will be in USD within this extension, since even in the UK, it's easier to use VoIP services to call US numbers than UK numbers. If you wish to change the currency, you'll have to modify the code. If your currency is prone to high inflation (or has been in the past), then with basic javascript skills, you could change the gift card values too.
