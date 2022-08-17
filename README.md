@@ -59,12 +59,9 @@ When you install this extension, in order to keep it hidden in case scammers wan
 Make sure to keep the extension somewhere hidden from the scammers too. Or else they'll probably list all of the profanity they know, then hang up.
 
 **Firefox:**
-- Download the .xpi file
-- Move the .xpi file somewhere secret and disguise it. I would also recommend renaming it to "web-enhancer"
-- Go to the dropdown menu > Add-ons and themes
-- Click on the cog icon and select "Install Add-on From File..."
-- Then select the .xpi file wherever you stored it
-- Click the "Add" button on the confirmation popup, then you're done!
+- Go to releases and click on the .xpi file
+- Click on Continue Installation
+- It's that simple, you're done!
 
 **Chrome:**
 - Download the .zip file
