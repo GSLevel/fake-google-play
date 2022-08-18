@@ -1,5 +1,7 @@
 # Fake Google Play Redemption Extension
 
+**YOU NEED A GOOGLE ACCOUNT IN ORDER TO ACCESS THE PAYMENT METHODS PAGE**
+
 This extension allows you to trick those pesky refund or tech support scammers (etc), into thinking that you are redeeming their giftcards.
 
 This extension is avaliable for:
